@@ -13,8 +13,8 @@ Create visualizations for clear insights.
 
 Summarize findings with metrics and tabulated results.
 
-🔍 Steps Performed
-1️⃣ Data Cleaning & Preprocessing
+# Steps Performed
+## 1 Data Cleaning & Preprocessing
 
 Loaded the dataset DATA COVID 19.csv.
 
@@ -28,7 +28,7 @@ Cases per Million = (total_cases / population) * 1,000,000
 
 High Mortality Label (Binary Classification target).
 
-2️⃣ Exploratory Data Analysis (EDA)
+## 2️ Exploratory Data Analysis (EDA)
 
 Plotted time-series graphs of total cases and deaths.
 
@@ -38,7 +38,7 @@ Visualized ICU and hospital patient counts.
 
 Created heatmaps & bar charts for regional analysis.
 
-3️⃣ Machine Learning Model
+## 3️ Machine Learning Model
 
 Defined High Mortality Countries (above median mortality rate).
 
@@ -52,7 +52,7 @@ Gradient Boosting Classifier
 
 Compared models using Accuracy, Precision, Recall, and F1-Score.
 
-4️⃣ Visualization of Metrics & Results
+## 4️ Visualization of Metrics & Results
 
 Confusion Matrices (heatmap-style).
 
@@ -62,7 +62,7 @@ Tabulated comparison of evaluation metrics.
 
 Clear visual insights on cases, deaths, and hospitalization trends.
 
-📊 Key Insights
+# Key Insights
 
 Countries with higher cases per million did not always have higher mortality rates.
 
@@ -72,7 +72,7 @@ Ensemble methods (Random Forest, Gradient Boosting) outperformed Logistic Regres
 
 Visualizations revealed waves of cases & deaths and highlighted countries most affected.
 
-🛠️ Tech Stack
+# Tech Stack
 
 Language: Python 🐍
 
@@ -80,7 +80,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Environment: Jupyter Notebook / Google Colab
 
-📌 Deliverables
+# Deliverables
 
 Cleaned dataset (DATA COVID 19.csv)
 
