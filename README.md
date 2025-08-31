@@ -1,9 +1,9 @@
-#📌 Project Overview
+# Project Overview
 
 This project analyzes the global impact of the COVID-19 pandemic using real-world data.
 We explore patterns, visualize trends, and build predictive models to understand the spread, mortality, and hospitalization trends.
 
-🎯 Objectives
+## Objectives
 
 Perform Exploratory Data Analysis (EDA) to identify trends in cases, deaths, and hospitalizations.
 
